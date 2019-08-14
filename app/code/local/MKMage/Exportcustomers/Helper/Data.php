@@ -1,0 +1,5 @@
+<?php
+
+class MKMage_Exportcustomers_Helper_Data extends Mage_Core_Helper_Abstract
+{
+}

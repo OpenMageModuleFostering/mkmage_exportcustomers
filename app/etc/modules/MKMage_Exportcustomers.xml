@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <MKMage_Exportcustomers>
+            <active>true</active>
+            <codePool>local</codePool>
+        </MKMage_Exportcustomers>
+    </modules>
+</config>
