@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MKMage_Exportcustomers",
+    "name": "OpenMageModuleFostering\/MKMage_Exportcustomers",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Module that exports all type of customers.",
     "authors": [
-    {
-        "name": "MKMage",
-        "email": "igor@mkmage.com"
-    }
-],
+        {
+            "name": "MKMage",
+            "email": "igor@mkmage.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
