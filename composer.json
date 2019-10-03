@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/MKMage_Exportcustomers",
+    "name": "openmage-module-fostering\/mkmage_exportcustomers",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Module that exports all type of customers.",
     "authors": [
